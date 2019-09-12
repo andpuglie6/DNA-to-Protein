@@ -54,7 +54,7 @@ string translate(string sequenceAppended){
 	DNAToProtein["GAC"] = 'D';
 	DNAToProtein["GAT"] = 'D';
 	DNAToProtein["GAA"] = 'E';
-       DNAToProtein["GAG"] = 'E';   
+        DNAToProtein["GAG"] = 'E';   
 	DNAToProtein["GGA"] = 'G'; 
 	DNAToProtein["GGC"] = 'G';
 	DNAToProtein["GGG"] = 'G';
