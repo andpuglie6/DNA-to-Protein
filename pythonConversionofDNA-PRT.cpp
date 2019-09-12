@@ -9,6 +9,8 @@ using namespace std;
 
 string translate(string sequenceAppended){
 	
+	//Create a map that shows the specific codon and its proper...
+	
 	map<string, char> DNAToProtein;
 	
 	DNAToProtein["ATA"] = 'I';
