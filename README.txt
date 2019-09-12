@@ -2,6 +2,9 @@ This is a conversion of the program "DNA to Protein in Python 3" written by
 Amartya Ranjan Saikia. The code can be found on GeeksforGeeks at the link:
 https://www.geeksforgeeks.org/dna-protein-python-3/
 
+The program is designed to convert from a DNA strand to its complementary
+protein.
+
 DNA is important for life as it allows cells to store, retrieve, and 
 translate genetic instructions for the function of intracellular processes.
 DNA is composed of four nucleotides in long chains: Adenine, Cytosine,
